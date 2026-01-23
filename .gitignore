@@ -13,6 +13,10 @@ ENV/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# data
+
+data/*
+
 # IDE
 .vscode/
 .idea/
