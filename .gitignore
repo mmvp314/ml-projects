@@ -16,6 +16,7 @@ fidle/*
 
 # data
 data/*
+**/data/*
 
 # IDE
 .vscode/
